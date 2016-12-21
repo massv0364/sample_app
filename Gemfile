@@ -34,6 +34,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'bootstrap-sass'
 
+gem 'bcrypt'
+
 group :development, :test do
 
   gem 'sqlite3'
